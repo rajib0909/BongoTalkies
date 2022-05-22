@@ -1,15 +1,12 @@
 package com.bongotalkies.app.view;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModelProviders;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
-
 import com.bongotalkies.app.R;
 import com.bongotalkies.app.databinding.ActivityDetailsBinding;
 import com.bongotalkies.app.model.movieDetails.MovieDetails;
